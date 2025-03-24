@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44114862",
+  "name": "Large Three Level Mirror Dome Pendent",
+  "slug": "f_44114862",
+  "price": "CA$2,059",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/large-three-level-mirror-dome-pendent/id-f_44114862/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44114862",
+    "slug": "f_44114862",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/large-three-level-mirror-dome-pendent/id-f_44114862/",
+    "name": "Large Three Level Mirror Dome Pendent",
+    "price": "CA$2,059",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

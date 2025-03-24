@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44096232",
+  "name": "Rare Large \"SAN -JU\" Uchiwa Light Fixture by Ingo Maurer, 1970s",
+  "slug": "f_44096232",
+  "price": "CA$103,851",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/rare-large-san-ju-uchiwa-light-fixture-by-ingo-maurer-1970s-for-sale/f_25393/f_440962321742296014196/f_44096232_1742296015730_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/rare-large-san-ju-uchiwa-light-fixture-ingo-maurer-1970s/id-f_44096232/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44096232",
+    "slug": "f_44096232",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/rare-large-san-ju-uchiwa-light-fixture-ingo-maurer-1970s/id-f_44096232/",
+    "name": "Rare Large \"SAN -JU\" Uchiwa Light Fixture by Ingo Maurer, 1970s",
+    "price": "CA$103,851",
+    "imageUrl": "https://a.1stdibscdn.com/rare-large-san-ju-uchiwa-light-fixture-by-ingo-maurer-1970s-for-sale/f_25393/f_440962321742296014196/f_44096232_1742296015730_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

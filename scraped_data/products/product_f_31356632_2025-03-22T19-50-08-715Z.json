@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_31356632",
+  "name": "",
+  "slug": "f_31356632",
+  "price": "CA$5,600",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/reverie-sculpture-lamp-in-art-deco-style-by-raymonde-guerbe-for-max-le-verrier-for-sale/f_31283/f_313566321668702159422/MAX0060_Max_Le_Verrier_REVERIE_Table_lamp_GUERBE_Art_Deco_Style_Sculpture_danseuse_dancer_spelter_patinated_03_master.jpeg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/reverie-sculpture-lamp-art-deco-style-raymonde-guerbe-max-le-verrier/id-f_31356632/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_31356632",
+    "slug": "f_31356632",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/reverie-sculpture-lamp-art-deco-style-raymonde-guerbe-max-le-verrier/id-f_31356632/",
+    "name": "",
+    "price": "CA$5,600",
+    "imageUrl": "https://a.1stdibscdn.com/reverie-sculpture-lamp-in-art-deco-style-by-raymonde-guerbe-for-max-le-verrier-for-sale/f_31283/f_313566321668702159422/MAX0060_Max_Le_Verrier_REVERIE_Table_lamp_GUERBE_Art_Deco_Style_Sculpture_danseuse_dancer_spelter_patinated_03_master.jpeg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44113602",
+  "name": "Casa Table Light - round",
+  "slug": "f_44113602",
+  "price": "CA$2,240",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/casa-table-light-round-for-sale/f_62582/f_441136021742393660084/f_44113602_1742393660722_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/casa-table-light-round/id-f_44113602/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44113602",
+    "slug": "f_44113602",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/casa-table-light-round/id-f_44113602/",
+    "name": "Casa Table Light - round",
+    "price": "CA$2,240",
+    "imageUrl": "https://a.1stdibscdn.com/casa-table-light-round-for-sale/f_62582/f_441136021742393660084/f_44113602_1742393660722_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

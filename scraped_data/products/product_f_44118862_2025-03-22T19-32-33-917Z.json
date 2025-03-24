@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44118862",
+  "name": "Unique Vintage italian design mushroom lamp, frost white orange Murano glass 70s",
+  "slug": "f_44118862",
+  "price": "CA$1,232",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/unique-vintage-italian-design-mushroom-lamp-frost-white-orange-murano-glass-70s/id-f_44118862/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44118862",
+    "slug": "f_44118862",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/unique-vintage-italian-design-mushroom-lamp-frost-white-orange-murano-glass-70s/id-f_44118862/",
+    "name": "Unique Vintage italian design mushroom lamp, frost white orange Murano glass 70s",
+    "price": "CA$1,232",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

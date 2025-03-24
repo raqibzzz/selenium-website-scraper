@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44120912",
+  "name": "Italian Modernist Table Lamp",
+  "slug": "f_44120912",
+  "price": "CA$2,574",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/italian-modernist-table-lamp/id-f_44120912/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44120912",
+    "slug": "f_44120912",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/italian-modernist-table-lamp/id-f_44120912/",
+    "name": "Italian Modernist Table Lamp",
+    "price": "CA$2,574",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

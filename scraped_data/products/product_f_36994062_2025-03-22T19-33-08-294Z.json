@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_36994062",
+  "name": "",
+  "slug": "f_36994062",
+  "price": "CA$3,920 / set",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/scandinavian-modern-pair-of-table-lamps-luxus-sweden-1970s-for-sale-picture-2/f_41541/f_369940621699462494722/P1069086_master.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/scandinavian-modern-pair-of-table-lamps-luxus-sweden-1970s/id-f_36994062/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_36994062",
+    "slug": "f_36994062",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/scandinavian-modern-pair-of-table-lamps-luxus-sweden-1970s/id-f_36994062/",
+    "name": "",
+    "price": "CA$3,920 / set",
+    "imageUrl": "https://a.1stdibscdn.com/scandinavian-modern-pair-of-table-lamps-luxus-sweden-1970s-for-sale-picture-2/f_41541/f_369940621699462494722/P1069086_master.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

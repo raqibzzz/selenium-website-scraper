@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44111542",
+  "name": "1 of 2 Iron and Bubble Glass Chandeliers, Limburg",
+  "slug": "f_44111542",
+  "price": "CA$3,040 / item",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/1-2-iron-bubble-glass-chandeliers-limburg/id-f_44111542/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44111542",
+    "slug": "f_44111542",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/1-2-iron-bubble-glass-chandeliers-limburg/id-f_44111542/",
+    "name": "1 of 2 Iron and Bubble Glass Chandeliers, Limburg",
+    "price": "CA$3,040 / item",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

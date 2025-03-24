@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44016242",
+  "name": "Mid Century Murano Attributed to Barovier",
+  "slug": "f_44016242",
+  "price": "CA$5,296",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/mid-century-murano-attributed-to-barovier/id-f_44016242/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44016242",
+    "slug": "f_44016242",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/mid-century-murano-attributed-to-barovier/id-f_44016242/",
+    "name": "Mid Century Murano Attributed to Barovier",
+    "price": "CA$5,296",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

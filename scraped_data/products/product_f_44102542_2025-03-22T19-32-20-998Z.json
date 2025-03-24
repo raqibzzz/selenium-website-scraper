@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44102542",
+  "name": "Ercole Barovier Large Iridescent Grosse Costolature Clam Shell Glass Bowl, 1940s",
+  "slug": "f_44102542",
+  "price": "CA$13,976",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/ercole-barovier-large-iridescent-grosse-costolature-clam-shell-glass-bowl-1940s-for-sale/f_29173/f_441025421742321193616/f_44102542_1742321194434_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/ercole-barovier-large-iridescent-grosse-costolature-clam-shell-glass-bowl-1940s/id-f_44102542/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44102542",
+    "slug": "f_44102542",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/ercole-barovier-large-iridescent-grosse-costolature-clam-shell-glass-bowl-1940s/id-f_44102542/",
+    "name": "Ercole Barovier Large Iridescent Grosse Costolature Clam Shell Glass Bowl, 1940s",
+    "price": "CA$13,976",
+    "imageUrl": "https://a.1stdibscdn.com/ercole-barovier-large-iridescent-grosse-costolature-clam-shell-glass-bowl-1940s-for-sale/f_29173/f_441025421742321193616/f_44102542_1742321194434_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

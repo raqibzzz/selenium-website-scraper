@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_21576092",
+  "name": "",
+  "slug": "f_21576092",
+  "price": "CA$5,888 Sale Price / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/mission-pendant-light-by-onentropy-in-seamless-white-marble-and-satin-bronze-for-sale-picture-2/f_55312/f_215760921606390975411/DSC02025_Mission_detail_master.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/mission-pendant-light-onentropy-seamless-white-marble-satin-bronze/id-f_21576092/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_21576092",
+    "slug": "f_21576092",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/mission-pendant-light-onentropy-seamless-white-marble-satin-bronze/id-f_21576092/",
+    "name": "",
+    "price": "CA$5,888 Sale Price / item",
+    "imageUrl": "https://a.1stdibscdn.com/mission-pendant-light-by-onentropy-in-seamless-white-marble-and-satin-bronze-for-sale-picture-2/f_55312/f_215760921606390975411/DSC02025_Mission_detail_master.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43477882",
+  "name": "French Designer, Wall Lights, Brass, Fabric, France, 1960s",
+  "slug": "f_43477882",
+  "price": "CA$3,530 / set",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/french-designer-wall-lights-brass-fabric-france-1960s-for-sale/f_32281/f_434778821738946308311/f_43477882_1738946309068_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/french-designer-wall-lights-brass-fabric-france-1960s/id-f_43477882/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43477882",
+    "slug": "f_43477882",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/french-designer-wall-lights-brass-fabric-france-1960s/id-f_43477882/",
+    "name": "French Designer, Wall Lights, Brass, Fabric, France, 1960s",
+    "price": "CA$3,530 / set",
+    "imageUrl": "https://a.1stdibscdn.com/french-designer-wall-lights-brass-fabric-france-1960s-for-sale/f_32281/f_434778821738946308311/f_43477882_1738946309068_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

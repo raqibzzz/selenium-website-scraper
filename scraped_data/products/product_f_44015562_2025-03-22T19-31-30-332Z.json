@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44015562",
+  "name": "“Rituals 1” Lamp by Ludovica E Roberto Palomba for Foscarini",
+  "slug": "f_44015562",
+  "price": "CA$2,574",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/rituals-1-lamp-ludovica-e-roberto-palomba-foscarini/id-f_44015562/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44015562",
+    "slug": "f_44015562",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/rituals-1-lamp-ludovica-e-roberto-palomba-foscarini/id-f_44015562/",
+    "name": "“Rituals 1” Lamp by Ludovica E Roberto Palomba for Foscarini",
+    "price": "CA$2,574",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

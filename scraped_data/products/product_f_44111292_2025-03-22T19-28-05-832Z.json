@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44111292",
+  "name": "21216/A2-O Wall Lamp by Stillux",
+  "slug": "f_44111292",
+  "price": "CA$1,640",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/21216-a2-o-wall-lamp-stillux/id-f_44111292/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44111292",
+    "slug": "f_44111292",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/21216-a2-o-wall-lamp-stillux/id-f_44111292/",
+    "name": "21216/A2-O Wall Lamp by Stillux",
+    "price": "CA$1,640",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

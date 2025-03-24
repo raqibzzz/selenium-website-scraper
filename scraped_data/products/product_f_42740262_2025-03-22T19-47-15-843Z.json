@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_42740262",
+  "name": "",
+  "slug": "f_42740262",
+  "price": "CA$2,183",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/art-nouveau-brass-chandelier-lustre-ceiling-lamp-rarity-antique-plafonnier-for-sale/f_28443/f_427402621734189020572/f_42740262_1734189022545_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/art-nouveau-brass-chandelier-lustre-ceiling-lamp-rarity-antique-plafonnier/id-f_42740262/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_42740262",
+    "slug": "f_42740262",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/art-nouveau-brass-chandelier-lustre-ceiling-lamp-rarity-antique-plafonnier/id-f_42740262/",
+    "name": "",
+    "price": "CA$2,183",
+    "imageUrl": "https://a.1stdibscdn.com/art-nouveau-brass-chandelier-lustre-ceiling-lamp-rarity-antique-plafonnier-for-sale/f_28443/f_427402621734189020572/f_42740262_1734189022545_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

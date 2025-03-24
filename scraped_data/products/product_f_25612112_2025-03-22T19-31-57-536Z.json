@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_25612112",
+  "name": "",
+  "slug": "f_25612112",
+  "price": "CA$13,240",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/french-art-deco-feather-chandelier-for-sale/f_16232/f_256121121633528351847/f_25612112_1633528352093_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/french-art-deco-feather-chandelier/id-f_25612112/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_25612112",
+    "slug": "f_25612112",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/french-art-deco-feather-chandelier/id-f_25612112/",
+    "name": "",
+    "price": "CA$13,240",
+    "imageUrl": "https://a.1stdibscdn.com/french-art-deco-feather-chandelier-for-sale/f_16232/f_256121121633528351847/f_25612112_1633528352093_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44098912",
+  "name": "Rectangular Ceramic Lamp",
+  "slug": "f_44098912",
+  "price": "CA$2,240 / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/rectangular-ceramic-lamp-for-sale-picture-2/f_62582/f_440989121742309815928/Project_213A_Rectangulare_Light_sugar_1_master.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/rectangular-ceramic-lamp/id-f_44098912/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44098912",
+    "slug": "f_44098912",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/rectangular-ceramic-lamp/id-f_44098912/",
+    "name": "Rectangular Ceramic Lamp",
+    "price": "CA$2,240 / item",
+    "imageUrl": "https://a.1stdibscdn.com/rectangular-ceramic-lamp-for-sale-picture-2/f_62582/f_440989121742309815928/Project_213A_Rectangulare_Light_sugar_1_master.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

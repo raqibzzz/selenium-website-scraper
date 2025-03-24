@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_35960652",
+  "name": "",
+  "slug": "f_35960652",
+  "price": "CA$1,920 / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/il-pezzo-12-wall-sconce-black-and-gold-crystal-leds-made-in-italy-for-sale/f_31243/f_359606521693492069579/f_35960652_1693492069908_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/il-pezzo-12-wall-sconce-black-polished-brass-crystal-made-italy/id-f_35960652/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_35960652",
+    "slug": "f_35960652",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/il-pezzo-12-wall-sconce-black-polished-brass-crystal-made-italy/id-f_35960652/",
+    "name": "",
+    "price": "CA$1,920 / item",
+    "imageUrl": "https://a.1stdibscdn.com/il-pezzo-12-wall-sconce-black-and-gold-crystal-leds-made-in-italy-for-sale/f_31243/f_359606521693492069579/f_35960652_1693492069908_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

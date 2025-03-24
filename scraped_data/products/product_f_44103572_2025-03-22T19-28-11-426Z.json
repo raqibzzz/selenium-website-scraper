@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44103572",
+  "name": "12 Light Purple colour Classic Venetian Chandelier by Cenedese Italy",
+  "slug": "f_44103572",
+  "price": "CA$12,734",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/12-light-purple-colour-classic-venetian-chandelier-by-cenedese-italy-for-sale-picture-2/f_51782/f_441035721742324230695/12_light_Venetian_Purple_color_hand_blown_chandelier_by_CenedeseFM678_11__master.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/12-light-purple-colour-classic-venetian-chandelier-cenedese-italy/id-f_44103572/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44103572",
+    "slug": "f_44103572",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/12-light-purple-colour-classic-venetian-chandelier-cenedese-italy/id-f_44103572/",
+    "name": "12 Light Purple colour Classic Venetian Chandelier by Cenedese Italy",
+    "price": "CA$12,734",
+    "imageUrl": "https://a.1stdibscdn.com/12-light-purple-colour-classic-venetian-chandelier-by-cenedese-italy-for-sale-picture-2/f_51782/f_441035721742324230695/12_light_Venetian_Purple_color_hand_blown_chandelier_by_CenedeseFM678_11__master.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

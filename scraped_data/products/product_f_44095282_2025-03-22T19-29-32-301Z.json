@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44095282",
+  "name": "Modernist Pendant Lights by Hans Bergström, Ateljé Lyktan, Sweden, 1950s",
+  "slug": "f_44095282",
+  "price": "CA$6,960 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/modernist-pendant-lights-hans-bergstrom-atelje-lyktan-sweden-1950s/id-f_44095282/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44095282",
+    "slug": "f_44095282",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/modernist-pendant-lights-hans-bergstrom-atelje-lyktan-sweden-1950s/id-f_44095282/",
+    "name": "Modernist Pendant Lights by Hans Bergström, Ateljé Lyktan, Sweden, 1950s",
+    "price": "CA$6,960 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

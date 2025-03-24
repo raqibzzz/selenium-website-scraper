@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43869552",
+  "name": "Three Arm Solid Pine Chandelier by Luxus Sweden, 1960s",
+  "slug": "f_43869552",
+  "price": "CA$3,236 / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/three-arm-solid-pine-chandelier-by-luxus-sweden-1960s-for-sale/f_39921/f_438695521740994493500/f_43869552_1740994494785_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/three-arm-solid-pine-chandelier-luxus-sweden-1960s/id-f_43869552/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43869552",
+    "slug": "f_43869552",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/three-arm-solid-pine-chandelier-luxus-sweden-1960s/id-f_43869552/",
+    "name": "Three Arm Solid Pine Chandelier by Luxus Sweden, 1960s",
+    "price": "CA$3,236 / item",
+    "imageUrl": "https://a.1stdibscdn.com/three-arm-solid-pine-chandelier-by-luxus-sweden-1960s-for-sale/f_39921/f_438695521740994493500/f_43869552_1740994494785_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

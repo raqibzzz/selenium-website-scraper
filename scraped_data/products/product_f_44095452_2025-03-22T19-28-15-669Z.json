@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44095452",
+  "name": "Selenor Hammered bronze and Selenite Wall Sconce by Matlight Milano",
+  "slug": "f_44095452",
+  "price": "CA$5,230",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/selenor-hammered-bronze-selenite-wall-sconce-matlight-milano/id-f_44095452/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44095452",
+    "slug": "f_44095452",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/selenor-hammered-bronze-selenite-wall-sconce-matlight-milano/id-f_44095452/",
+    "name": "Selenor Hammered bronze and Selenite Wall Sconce by Matlight Milano",
+    "price": "CA$5,230",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44114122",
+  "name": "Petitot Art Deco Wrought-Iron Chandelier, 1920",
+  "slug": "f_44114122",
+  "price": "CA$3,677",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/petitot-art-deco-wrought-iron-chandelier-1920-for-sale/f_23123/f_441141221742395029834/f_44114122_1742395030690_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/petitot-art-deco-wrought-iron-chandelier-1920/id-f_44114122/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44114122",
+    "slug": "f_44114122",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/petitot-art-deco-wrought-iron-chandelier-1920/id-f_44114122/",
+    "name": "Petitot Art Deco Wrought-Iron Chandelier, 1920",
+    "price": "CA$3,677",
+    "imageUrl": "https://a.1stdibscdn.com/petitot-art-deco-wrought-iron-chandelier-1920-for-sale/f_23123/f_441141221742395029834/f_44114122_1742395030690_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

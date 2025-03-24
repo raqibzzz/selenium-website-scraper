@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44075722",
+  "name": "Italian Midcentury Pair of Amber Murano Glass Leaf Wall Sconces, 1970s",
+  "slug": "f_44075722",
+  "price": "CA$4,424 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/italian-midcentury-pair-of-amber-murano-glass-leaf-wall-sconces-1970s/id-f_44075722/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44075722",
+    "slug": "f_44075722",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/italian-midcentury-pair-of-amber-murano-glass-leaf-wall-sconces-1970s/id-f_44075722/",
+    "name": "Italian Midcentury Pair of Amber Murano Glass Leaf Wall Sconces, 1970s",
+    "price": "CA$4,424 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

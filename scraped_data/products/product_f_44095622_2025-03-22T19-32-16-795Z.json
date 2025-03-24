@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44095622",
+  "name": "Chinese celadon and gold lamp, XIXth c.",
+  "slug": "f_44095622",
+  "price": "CA$2,834",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/chinese-celadon-and-gold-lamp-xixth-c-for-sale/f_79132/f_440956221742292678737/f_44095622_1742292678978_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/chinese-celadon-gold-lamp-xixth-c/id-f_44095622/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44095622",
+    "slug": "f_44095622",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/chinese-celadon-gold-lamp-xixth-c/id-f_44095622/",
+    "name": "Chinese celadon and gold lamp, XIXth c.",
+    "price": "CA$2,834",
+    "imageUrl": "https://a.1stdibscdn.com/chinese-celadon-and-gold-lamp-xixth-c-for-sale/f_79132/f_440956221742292678737/f_44095622_1742292678978_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

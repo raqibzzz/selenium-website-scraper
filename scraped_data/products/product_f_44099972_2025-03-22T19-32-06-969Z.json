@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099972",
+  "name": "",
+  "slug": "f_44099972",
+  "price": "CA$3,520",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/mid-20th-century-scandinavian-modern-brass-wall-lamp-style-of-paavo-tynell-for-sale/f_69432/f_440999721742312535416/f_44099972_1742312536267_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/mid-20th-century-scandinavian-modern-brass-wall-lamp-style-paavo-tynell/id-f_44099972/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44099972",
+    "slug": "f_44099972",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/mid-20th-century-scandinavian-modern-brass-wall-lamp-style-paavo-tynell/id-f_44099972/",
+    "name": "",
+    "price": "CA$3,520",
+    "imageUrl": "https://a.1stdibscdn.com/mid-20th-century-scandinavian-modern-brass-wall-lamp-style-of-paavo-tynell-for-sale/f_69432/f_440999721742312535416/f_44099972_1742312536267_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

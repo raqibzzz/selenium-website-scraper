@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44122042",
+  "name": "Contemporary Lotus Pod Torchiere in Repoussé Brass by Robert Kuo, Limited",
+  "slug": "f_44122042",
+  "price": "CA$7,061 / item",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/contemporary-lotus-pod-torchiere-repousse-brass-robert-kuo-limited/id-f_44122042/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44122042",
+    "slug": "f_44122042",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/contemporary-lotus-pod-torchiere-repousse-brass-robert-kuo-limited/id-f_44122042/",
+    "name": "Contemporary Lotus Pod Torchiere in Repoussé Brass by Robert Kuo, Limited",
+    "price": "CA$7,061 / item",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

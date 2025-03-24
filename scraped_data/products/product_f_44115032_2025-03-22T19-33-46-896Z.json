@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44115032",
+  "name": "Kazuhide Takahama 'Saori' floor lamp for Gavina - Italy 1973",
+  "slug": "f_44115032",
+  "price": "CA$2,318",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/kazuhide-takahama-saori-floor-lamp-gavina-italy-1973/id-f_44115032/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44115032",
+    "slug": "f_44115032",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/kazuhide-takahama-saori-floor-lamp-gavina-italy-1973/id-f_44115032/",
+    "name": "Kazuhide Takahama 'Saori' floor lamp for Gavina - Italy 1973",
+    "price": "CA$2,318",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

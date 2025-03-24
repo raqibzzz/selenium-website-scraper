@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44117772",
+  "name": "Pair of Crystal Flower Chandeliers by Ernst Palme, Germany, 1970s",
+  "slug": "f_44117772",
+  "price": "CA$8,800 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/pair-of-crystal-flower-chandeliers-ernst-palme-germany-1970s/id-f_44117772/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44117772",
+    "slug": "f_44117772",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/pair-of-crystal-flower-chandeliers-ernst-palme-germany-1970s/id-f_44117772/",
+    "name": "Pair of Crystal Flower Chandeliers by Ernst Palme, Germany, 1970s",
+    "price": "CA$8,800 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

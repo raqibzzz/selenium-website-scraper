@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44113232",
+  "name": "Vico Magistretti “Pentaclinio” Ceiling Lamps for Artemide, 1967, Set of 2",
+  "slug": "f_44113232",
+  "price": "CA$42,664 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/vico-magistretti-pentaclinio-ceiling-lamps-artemide-1967-set-of-2/id-f_44113232/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44113232",
+    "slug": "f_44113232",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/vico-magistretti-pentaclinio-ceiling-lamps-artemide-1967-set-of-2/id-f_44113232/",
+    "name": "Vico Magistretti “Pentaclinio” Ceiling Lamps for Artemide, 1967, Set of 2",
+    "price": "CA$42,664 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

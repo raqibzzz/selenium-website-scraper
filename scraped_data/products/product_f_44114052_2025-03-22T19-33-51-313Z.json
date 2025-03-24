@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44114052",
+  "name": "Nieuwenborg & Wegman 'Delight' wall lights for Ingo Maurer - Germany 1980.",
+  "slug": "f_44114052",
+  "price": "CA$1,853 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/nieuwenborg-wegman-delight-wall-lights-ingo-maurer-germany-1980/id-f_44114052/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44114052",
+    "slug": "f_44114052",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/nieuwenborg-wegman-delight-wall-lights-ingo-maurer-germany-1980/id-f_44114052/",
+    "name": "Nieuwenborg & Wegman 'Delight' wall lights for Ingo Maurer - Germany 1980.",
+    "price": "CA$1,853 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

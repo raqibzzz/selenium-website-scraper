@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44107312",
+  "name": "Pair of Kalmar citrus swirl Sconces, Vienna Austria, 1970",
+  "slug": "f_44107312",
+  "price": "CA$5,737 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/pair-of-kalmar-citrus-swirl-sconces-vienna-austria-1970/id-f_44107312/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44107312",
+    "slug": "f_44107312",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/pair-of-kalmar-citrus-swirl-sconces-vienna-austria-1970/id-f_44107312/",
+    "name": "Pair of Kalmar citrus swirl Sconces, Vienna Austria, 1970",
+    "price": "CA$5,737 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

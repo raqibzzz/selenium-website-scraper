@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44100552",
+  "name": "Murano Glass Dotted Lamps",
+  "slug": "f_44100552",
+  "price": "CA$8,753 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/murano-glass-dotted-lamps/id-f_44100552/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44100552",
+    "slug": "f_44100552",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/murano-glass-dotted-lamps/id-f_44100552/",
+    "name": "Murano Glass Dotted Lamps",
+    "price": "CA$8,753 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

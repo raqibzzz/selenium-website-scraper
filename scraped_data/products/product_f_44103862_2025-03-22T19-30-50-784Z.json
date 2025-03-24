@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44103862",
+  "name": "Chandelier with White Murano Glass Flowers and Crystal Butterflies",
+  "slug": "f_44103862",
+  "price": "CA$3,520",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/chandelier-white-murano-glass-flowers-crystal-butterflies/id-f_44103862/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44103862",
+    "slug": "f_44103862",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/chandelier-white-murano-glass-flowers-crystal-butterflies/id-f_44103862/",
+    "name": "Chandelier with White Murano Glass Flowers and Crystal Butterflies",
+    "price": "CA$3,520",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

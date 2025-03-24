@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43831802",
+  "name": "Sare Lamp in Green by Merve Kahraman, Marble Milk Glass & Hand-Painted Glass",
+  "slug": "f_43831802",
+  "price": "CA$7,723",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/sare-lamp-in-green-by-merve-kahraman-marble-milk-glass-hand-painted-glass-for-sale/f_55372/f_438318021740692827117/f_43831802_1740692827751_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/sare-lamp-green-merve-kahraman-marble-milk-glass-hand-painted-glass/id-f_43831802/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43831802",
+    "slug": "f_43831802",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/sare-lamp-green-merve-kahraman-marble-milk-glass-hand-painted-glass/id-f_43831802/",
+    "name": "Sare Lamp in Green by Merve Kahraman, Marble Milk Glass & Hand-Painted Glass",
+    "price": "CA$7,723",
+    "imageUrl": "https://a.1stdibscdn.com/sare-lamp-in-green-by-merve-kahraman-marble-milk-glass-hand-painted-glass-for-sale/f_55372/f_438318021740692827117/f_43831802_1740692827751_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

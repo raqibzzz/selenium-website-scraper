@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099582",
+  "name": "Pair Of Patinated Steel Gilbert Poillerat-Style Two-Light Sconces",
+  "slug": "f_44099582",
+  "price": "CA$8,532 / item",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/pair-of-patinated-steel-gilbert-poillerat-style-two-light-sconces/id-f_44099582/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44099582",
+    "slug": "f_44099582",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/pair-of-patinated-steel-gilbert-poillerat-style-two-light-sconces/id-f_44099582/",
+    "name": "Pair Of Patinated Steel Gilbert Poillerat-Style Two-Light Sconces",
+    "price": "CA$8,532 / item",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

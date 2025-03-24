@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44101902",
+  "name": "French Designer, Table Lamp, Brass, Cord, Glass, France, 1950s",
+  "slug": "f_44101902",
+  "price": "CA$4,266",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/french-designer-table-lamp-brass-cord-glass-france-1950s/id-f_44101902/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44101902",
+    "slug": "f_44101902",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/french-designer-table-lamp-brass-cord-glass-france-1950s/id-f_44101902/",
+    "name": "French Designer, Table Lamp, Brass, Cord, Glass, France, 1950s",
+    "price": "CA$4,266",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

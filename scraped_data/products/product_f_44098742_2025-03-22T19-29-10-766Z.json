@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44098742",
+  "name": "Hans-Agne Jakobsson Raw Copper 'Tratten' Pendant",
+  "slug": "f_44098742",
+  "price": "CA$1,986 / item",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/hans-agne-jakobsson-raw-copper-tratten-pendant/id-f_44098742/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44098742",
+    "slug": "f_44098742",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/hans-agne-jakobsson-raw-copper-tratten-pendant/id-f_44098742/",
+    "name": "Hans-Agne Jakobsson Raw Copper 'Tratten' Pendant",
+    "price": "CA$1,986 / item",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

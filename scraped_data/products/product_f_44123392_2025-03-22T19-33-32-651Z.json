@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44123392",
+  "name": "Paolo Venini Spherical Murano Glass and Brass Pendant Light",
+  "slug": "f_44123392",
+  "price": "CA$3,383",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/paolo-venini-spherical-murano-glass-brass-pendant-light/id-f_44123392/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44123392",
+    "slug": "f_44123392",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/paolo-venini-spherical-murano-glass-brass-pendant-light/id-f_44123392/",
+    "name": "Paolo Venini Spherical Murano Glass and Brass Pendant Light",
+    "price": "CA$3,383",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

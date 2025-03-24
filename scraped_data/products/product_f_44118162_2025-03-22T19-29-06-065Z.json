@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44118162",
+  "name": "Petrol blue Murano glass chandelier",
+  "slug": "f_44118162",
+  "price": "CA$9,709,900 / item",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/petrol-blue-murano-glass-chandelier/id-f_44118162/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44118162",
+    "slug": "f_44118162",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/petrol-blue-murano-glass-chandelier/id-f_44118162/",
+    "name": "Petrol blue Murano glass chandelier",
+    "price": "CA$9,709,900 / item",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

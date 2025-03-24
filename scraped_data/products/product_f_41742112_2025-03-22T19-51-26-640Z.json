@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_41742112",
+  "name": "Flamingo Grey by Álvaro Siza for BD Barcelona, 1973",
+  "slug": "f_41742112",
+  "price": "CA$2,346 Sale Price / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/flamingo-grey-by-alvaro-siza-for-bd-barcelona-1973-for-sale/22569652/f_417421121728018971338/f_41742112_1728018971741_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/flamingo-grey-alvaro-siza-bd-barcelona-1973/id-f_41742112/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_41742112",
+    "slug": "f_41742112",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/flamingo-grey-alvaro-siza-bd-barcelona-1973/id-f_41742112/",
+    "name": "Flamingo Grey by Álvaro Siza for BD Barcelona, 1973",
+    "price": "CA$2,346 Sale Price / item",
+    "imageUrl": "https://a.1stdibscdn.com/flamingo-grey-by-alvaro-siza-for-bd-barcelona-1973-for-sale/22569652/f_417421121728018971338/f_41742112_1728018971741_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

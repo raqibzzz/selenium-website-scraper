@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44097582",
+  "name": "Sfumato LT316 Floor Lamp in Murano Glass by Carlo Nason for Mazzega, 1970s",
+  "slug": "f_44097582",
+  "price": "CA$15,681",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/sfumato-lt316-floor-lamp-murano-glass-carlo-nason-mazzega-1970s/id-f_44097582/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44097582",
+    "slug": "f_44097582",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/sfumato-lt316-floor-lamp-murano-glass-carlo-nason-mazzega-1970s/id-f_44097582/",
+    "name": "Sfumato LT316 Floor Lamp in Murano Glass by Carlo Nason for Mazzega, 1970s",
+    "price": "CA$15,681",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

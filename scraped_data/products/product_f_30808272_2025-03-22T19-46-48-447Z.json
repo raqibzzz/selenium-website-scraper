@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_30808272",
+  "name": "",
+  "slug": "f_30808272",
+  "price": "CA$21,920",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/birdcage-chandelier-w-2-rock-crystal-birds-perched-inside-w-porcelain-flowers-for-sale/f_10666/f_308082721665508773749/f_30808272_1665508775526_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/birdcage-chandelier-w-2-rock-crystal-birds-perched-inside-w-porcelain-flowers/id-f_30808272/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_30808272",
+    "slug": "f_30808272",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/birdcage-chandelier-w-2-rock-crystal-birds-perched-inside-w-porcelain-flowers/id-f_30808272/",
+    "name": "",
+    "price": "CA$21,920",
+    "imageUrl": "https://a.1stdibscdn.com/birdcage-chandelier-w-2-rock-crystal-birds-perched-inside-w-porcelain-flowers-for-sale/f_10666/f_308082721665508773749/f_30808272_1665508775526_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44119572",
+  "name": "c.1930s Umbrella Pendant Chandelier, Art Deco, Scandinavian Design",
+  "slug": "f_44119572",
+  "price": "CA$4,119",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/c1930s-umbrella-pendant-chandelier-art-deco-scandinavian-design-for-sale-picture-2/f_101772/f_441195721742410097165/IMG_6508_master.jpeg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/c1930s-umbrella-pendant-chandelier-art-deco-scandinavian-design/id-f_44119572/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44119572",
+    "slug": "f_44119572",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/c1930s-umbrella-pendant-chandelier-art-deco-scandinavian-design/id-f_44119572/",
+    "name": "c.1930s Umbrella Pendant Chandelier, Art Deco, Scandinavian Design",
+    "price": "CA$4,119",
+    "imageUrl": "https://a.1stdibscdn.com/c1930s-umbrella-pendant-chandelier-art-deco-scandinavian-design-for-sale-picture-2/f_101772/f_441195721742410097165/IMG_6508_master.jpeg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

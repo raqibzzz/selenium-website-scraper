@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44097202",
+  "name": "Murano glass flush-mount chandelier",
+  "slug": "f_44097202",
+  "price": "CA$11,548",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/murano-glass-flush-mount-chandelier/id-f_44097202/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44097202",
+    "slug": "f_44097202",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/murano-glass-flush-mount-chandelier/id-f_44097202/",
+    "name": "Murano glass flush-mount chandelier",
+    "price": "CA$11,548",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44111612",
+  "name": "Large Murano glass Chandelier -101 pink and white alabaster glass tube",
+  "slug": "f_44111612",
+  "price": "CA$6,080",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/large-murano-glass-chandelier-101-pink-white-alabaster-glass-tube/id-f_44111612/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44111612",
+    "slug": "f_44111612",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/large-murano-glass-chandelier-101-pink-white-alabaster-glass-tube/id-f_44111612/",
+    "name": "Large Murano glass Chandelier -101 pink and white alabaster glass tube",
+    "price": "CA$6,080",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

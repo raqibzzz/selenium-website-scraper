@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44114292",
+  "name": "Pair of Danish Mid Century Bed Table Lamps in Brass Produced in Denmark, 1940s",
+  "slug": "f_44114292",
+  "price": "CA$8,000 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/pair-of-danish-mid-century-bed-table-lamps-brass-produced-denmark-1940s/id-f_44114292/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44114292",
+    "slug": "f_44114292",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/pair-of-danish-mid-century-bed-table-lamps-brass-produced-denmark-1940s/id-f_44114292/",
+    "name": "Pair of Danish Mid Century Bed Table Lamps in Brass Produced in Denmark, 1940s",
+    "price": "CA$8,000 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

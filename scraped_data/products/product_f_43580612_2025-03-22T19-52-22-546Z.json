@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43580612",
+  "name": "Stinovo Style Brass Wall Sconce",
+  "slug": "f_43580612",
+  "price": "CA$1,022 / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/stinovo-style-brass-wall-sconce-for-sale/f_21983/f_435806121739266047318/f_43580612_1739266047552_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/stinovo-style-brass-wall-sconce/id-f_43580612/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43580612",
+    "slug": "f_43580612",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/stinovo-style-brass-wall-sconce/id-f_43580612/",
+    "name": "Stinovo Style Brass Wall Sconce",
+    "price": "CA$1,022 / item",
+    "imageUrl": "https://a.1stdibscdn.com/stinovo-style-brass-wall-sconce-for-sale/f_21983/f_435806121739266047318/f_43580612_1739266047552_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

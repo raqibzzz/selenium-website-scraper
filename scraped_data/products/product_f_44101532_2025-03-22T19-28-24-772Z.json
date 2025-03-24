@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44101532",
+  "name": "Swedish Designer, Table Lamp, Brass, Metal, Sweden, 1960s",
+  "slug": "f_44101532",
+  "price": "CA$3,236",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/swedish-designer-table-lamp-brass-metal-sweden-1960s/id-f_44101532/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44101532",
+    "slug": "f_44101532",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/swedish-designer-table-lamp-brass-metal-sweden-1960s/id-f_44101532/",
+    "name": "Swedish Designer, Table Lamp, Brass, Metal, Sweden, 1960s",
+    "price": "CA$3,236",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

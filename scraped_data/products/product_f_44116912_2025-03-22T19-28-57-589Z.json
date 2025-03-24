@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44116912",
+  "name": "Art Deco Chandelier Circa 1930s",
+  "slug": "f_44116912",
+  "price": "CA$3,601",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/art-deco-chandelier-circa-1930s/id-f_44116912/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44116912",
+    "slug": "f_44116912",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/art-deco-chandelier-circa-1930s/id-f_44116912/",
+    "name": "Art Deco Chandelier Circa 1930s",
+    "price": "CA$3,601",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44101542",
+  "name": "Degue French Art Deco Pink Pendant Chandelier, 1920",
+  "slug": "f_44101542",
+  "price": "CA$3,677",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/degue-french-art-deco-pink-pendant-chandelier-1920-for-sale/f_23123/f_441015421742316314692/f_44101542_1742316315874_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/degue-french-art-deco-pink-pendant-chandelier-1920/id-f_44101542/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44101542",
+    "slug": "f_44101542",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/degue-french-art-deco-pink-pendant-chandelier-1920/id-f_44101542/",
+    "name": "Degue French Art Deco Pink Pendant Chandelier, 1920",
+    "price": "CA$3,677",
+    "imageUrl": "https://a.1stdibscdn.com/degue-french-art-deco-pink-pendant-chandelier-1920-for-sale/f_23123/f_441015421742316314692/f_44101542_1742316315874_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

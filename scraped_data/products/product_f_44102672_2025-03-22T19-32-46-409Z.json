@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44102672",
+  "name": "Original Pair of French Art Deco Brass and glass wall lights sconces, 1930s",
+  "slug": "f_44102672",
+  "price": "CA$5,440",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/original-pair-of-french-art-deco-brass-glass-wall-lights-sconces-1930s/id-f_44102672/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44102672",
+    "slug": "f_44102672",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/original-pair-of-french-art-deco-brass-glass-wall-lights-sconces-1930s/id-f_44102672/",
+    "name": "Original Pair of French Art Deco Brass and glass wall lights sconces, 1930s",
+    "price": "CA$5,440",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

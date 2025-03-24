@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_41512202",
+  "name": "",
+  "slug": "f_41512202",
+  "price": "CA$73,559",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/emile-galle-cameo-glass-table-lamp-circa-1900-for-sale/f_56342/f_415122021726594469582/f_41512202_1726594471059_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/emile-galle-cameo-glass-table-lamp-circa-1900/id-f_41512202/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_41512202",
+    "slug": "f_41512202",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/emile-galle-cameo-glass-table-lamp-circa-1900/id-f_41512202/",
+    "name": "",
+    "price": "CA$73,559",
+    "imageUrl": "https://a.1stdibscdn.com/emile-galle-cameo-glass-table-lamp-circa-1900-for-sale/f_56342/f_415122021726594469582/f_41512202_1726594471059_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

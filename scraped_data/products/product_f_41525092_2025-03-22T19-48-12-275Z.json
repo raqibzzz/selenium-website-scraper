@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_41525092",
+  "name": "",
+  "slug": "f_41525092",
+  "price": "CA$6,399",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/new-ceiling-light-antique-look-chandelier-plafonnier-crystals-art-deco-for-sale/f_28443/f_415250921726671350214/f_41525092_1726671351344_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/new-ceiling-light-antique-look-chandelier-plafonnier-crystals-art-deco/id-f_41525092/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_41525092",
+    "slug": "f_41525092",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/new-ceiling-light-antique-look-chandelier-plafonnier-crystals-art-deco/id-f_41525092/",
+    "name": "",
+    "price": "CA$6,399",
+    "imageUrl": "https://a.1stdibscdn.com/new-ceiling-light-antique-look-chandelier-plafonnier-crystals-art-deco-for-sale/f_28443/f_415250921726671350214/f_41525092_1726671351344_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

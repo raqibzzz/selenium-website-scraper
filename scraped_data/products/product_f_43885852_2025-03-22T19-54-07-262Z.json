@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43885852",
+  "name": "1 of the 2 Stunning Ceramic Wall Lights, Denmark, 1970",
+  "slug": "f_43885852",
+  "price": "CA$3,360 / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/1-of-the-2-stunning-ceramic-wall-lights-denmark-1970-for-sale/f_24363/f_438858521741069333433/f_43885852_1741069333762_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/1-2-stunning-ceramic-wall-lights-denmark-1970/id-f_43885852/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43885852",
+    "slug": "f_43885852",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/1-2-stunning-ceramic-wall-lights-denmark-1970/id-f_43885852/",
+    "name": "1 of the 2 Stunning Ceramic Wall Lights, Denmark, 1970",
+    "price": "CA$3,360 / item",
+    "imageUrl": "https://a.1stdibscdn.com/1-of-the-2-stunning-ceramic-wall-lights-denmark-1970-for-sale/f_24363/f_438858521741069333433/f_43885852_1741069333762_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

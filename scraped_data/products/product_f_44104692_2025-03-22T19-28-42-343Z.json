@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44104692",
+  "name": "Blown Glass Murano Lantern",
+  "slug": "f_44104692",
+  "price": "CA$7,944",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/lanterns/blown-glass-murano-lantern/id-f_44104692/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44104692",
+    "slug": "f_44104692",
+    "url": "https://www.1stdibs.com/furniture/lighting/lanterns/blown-glass-murano-lantern/id-f_44104692/",
+    "name": "Blown Glass Murano Lantern",
+    "price": "CA$7,944",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

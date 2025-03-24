@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_33508332",
+  "name": "",
+  "slug": "f_33508332",
+  "price": "CA$3,584 Sale Price",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_335083321680104746837/33508332_datamatics.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/floor-lamp-produced-metalarte-style-gino-sarfatti-leather-brass/id-f_33508332/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_33508332",
+    "slug": "f_33508332",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/floor-lamp-produced-metalarte-style-gino-sarfatti-leather-brass/id-f_33508332/",
+    "name": "",
+    "price": "CA$3,584 Sale Price",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_335083321680104746837/33508332_datamatics.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

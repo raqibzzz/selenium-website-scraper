@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44107712",
+  "name": "Doria Glass and Brass Pendant, Germany 1960s",
+  "slug": "f_44107712",
+  "price": "CA$3,040 / item",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/doria-glass-brass-pendant-germany-1960s/id-f_44107712/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44107712",
+    "slug": "f_44107712",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/doria-glass-brass-pendant-germany-1960s/id-f_44107712/",
+    "name": "Doria Glass and Brass Pendant, Germany 1960s",
+    "price": "CA$3,040 / item",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43082892",
+  "name": "",
+  "slug": "f_43082892",
+  "price": "CA$1,888",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/white-purple-pink-flowered-murano-chandelier-1980s-italy/id-f_43082892/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43082892",
+    "slug": "f_43082892",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/white-purple-pink-flowered-murano-chandelier-1980s-italy/id-f_43082892/",
+    "name": "",
+    "price": "CA$1,888",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

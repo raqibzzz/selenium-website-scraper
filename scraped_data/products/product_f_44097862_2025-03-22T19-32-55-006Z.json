@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44097862",
+  "name": "SONIAH Table Lamp",
+  "slug": "f_44097862",
+  "price": "CA$3,060",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/soniah-table-lamp/id-f_44097862/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44097862",
+    "slug": "f_44097862",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/soniah-table-lamp/id-f_44097862/",
+    "name": "SONIAH Table Lamp",
+    "price": "CA$3,060",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

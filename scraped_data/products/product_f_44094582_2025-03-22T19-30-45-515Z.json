@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44094582",
+  "name": "Large Brutalist Gouge Lamp, circa 1970",
+  "slug": "f_44094582",
+  "price": "CA$2,868",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/large-brutalist-gouge-lamp-circa-1970/id-f_44094582/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44094582",
+    "slug": "f_44094582",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/large-brutalist-gouge-lamp-circa-1970/id-f_44094582/",
+    "name": "Large Brutalist Gouge Lamp, circa 1970",
+    "price": "CA$2,868",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

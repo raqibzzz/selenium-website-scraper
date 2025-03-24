@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44111192",
+  "name": "Ceiling Lamp with Glass Pendants, 1960s",
+  "slug": "f_44111192",
+  "price": "CA$1,248",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/lampada-a-soffitto-con-pendenti-in-vetro-anni-60-for-sale/f_17212/f_441111921742381093775/f_44111192_1742381094096_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/ceiling-lamp-glass-pendants-1960s/id-f_44111192/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44111192",
+    "slug": "f_44111192",
+    "url": "https://www.1stdibs.com/furniture/lighting/chandeliers-pendant-lights/ceiling-lamp-glass-pendants-1960s/id-f_44111192/",
+    "name": "Ceiling Lamp with Glass Pendants, 1960s",
+    "price": "CA$1,248",
+    "imageUrl": "https://a.1stdibscdn.com/lampada-a-soffitto-con-pendenti-in-vetro-anni-60-for-sale/f_17212/f_441111921742381093775/f_44111192_1742381094096_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

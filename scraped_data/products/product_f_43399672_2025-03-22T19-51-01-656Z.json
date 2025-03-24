@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43399672",
+  "name": "Harvey Guzzini, Wall Lights, Acrylic, Italy, 1970s",
+  "slug": "f_43399672",
+  "price": "CA$5,296 / set",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/harvey-guzzini-wall-lights-acrylic-italy-1970s-for-sale/f_32281/f_433996721738339226084/f_43399672_1738339226803_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/harvey-guzzini-wall-lights-acrylic-italy-1970s/id-f_43399672/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43399672",
+    "slug": "f_43399672",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/harvey-guzzini-wall-lights-acrylic-italy-1970s/id-f_43399672/",
+    "name": "Harvey Guzzini, Wall Lights, Acrylic, Italy, 1970s",
+    "price": "CA$5,296 / set",
+    "imageUrl": "https://a.1stdibscdn.com/harvey-guzzini-wall-lights-acrylic-italy-1970s-for-sale/f_32281/f_433996721738339226084/f_43399672_1738339226803_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

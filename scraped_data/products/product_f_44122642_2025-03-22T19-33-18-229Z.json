@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44122642",
+  "name": "Original Art Deco Table Lamp, Chrome, New Electrification, Czech, 1930s",
+  "slug": "f_44122642",
+  "price": "CA$1,040",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/original-art-deco-table-lamp-chrome-new-electrification-czech-1930s/id-f_44122642/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44122642",
+    "slug": "f_44122642",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/original-art-deco-table-lamp-chrome-new-electrification-czech-1930s/id-f_44122642/",
+    "name": "Original Art Deco Table Lamp, Chrome, New Electrification, Czech, 1930s",
+    "price": "CA$1,040",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

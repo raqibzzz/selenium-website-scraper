@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44117722",
+  "name": "Mid Century Bauhaus Lamp By Kaiser Idell Model 6751 Circa 1950s",
+  "slug": "f_44117722",
+  "price": "CA$1,216",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/mid-century-bauhaus-lamp-kaiser-idell-model-6751-circa-1950s/id-f_44117722/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44117722",
+    "slug": "f_44117722",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/mid-century-bauhaus-lamp-kaiser-idell-model-6751-circa-1950s/id-f_44117722/",
+    "name": "Mid Century Bauhaus Lamp By Kaiser Idell Model 6751 Circa 1950s",
+    "price": "CA$1,216",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

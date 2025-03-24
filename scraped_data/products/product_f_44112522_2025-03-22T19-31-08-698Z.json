@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44112522",
+  "name": "Pair of Mid-Century Turned Brass Table Lamps silk shade by Luciano Frigerio 1960",
+  "slug": "f_44112522",
+  "price": "CA$7,200 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/pair-of-mid-century-turned-brass-table-lamps-silk-shade-luciano-frigerio-1960/id-f_44112522/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44112522",
+    "slug": "f_44112522",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/pair-of-mid-century-turned-brass-table-lamps-silk-shade-luciano-frigerio-1960/id-f_44112522/",
+    "name": "Pair of Mid-Century Turned Brass Table Lamps silk shade by Luciano Frigerio 1960",
+    "price": "CA$7,200 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

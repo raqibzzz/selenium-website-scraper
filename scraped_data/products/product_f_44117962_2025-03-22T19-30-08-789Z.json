@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44117962",
+  "name": "1 of the 4 Glass and Brass Floral Wall Lights from Ernst Palme, 1970s",
+  "slug": "f_44117962",
+  "price": "CA$1,760 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/1-4-glass-brass-floral-wall-lights-from-ernst-palme-1970s/id-f_44117962/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44117962",
+    "slug": "f_44117962",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/1-4-glass-brass-floral-wall-lights-from-ernst-palme-1970s/id-f_44117962/",
+    "name": "1 of the 4 Glass and Brass Floral Wall Lights from Ernst Palme, 1970s",
+    "price": "CA$1,760 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

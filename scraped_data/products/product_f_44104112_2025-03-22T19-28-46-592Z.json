@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44104112",
+  "name": "Set of 4 Sconces with Crystal Flowers and Leaves, Sold in Pairs",
+  "slug": "f_44104112",
+  "price": "CA$12,946 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/set-of-4-sconces-crystal-flowers-leaves-sold-pairs/id-f_44104112/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44104112",
+    "slug": "f_44104112",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/set-of-4-sconces-crystal-flowers-leaves-sold-pairs/id-f_44104112/",
+    "name": "Set of 4 Sconces with Crystal Flowers and Leaves, Sold in Pairs",
+    "price": "CA$12,946 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

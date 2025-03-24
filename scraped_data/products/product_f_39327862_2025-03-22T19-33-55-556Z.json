@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_39327862",
+  "name": "Swedish Designer, Floor Lamp, Birch, Nickel, Fabric, Sweden, 1930s",
+  "slug": "f_39327862",
+  "price": "CA$5,590",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/swedish-designer-floor-lamp-birch-nickel-fabric-sweden-1930s/id-f_39327862/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_39327862",
+    "slug": "f_39327862",
+    "url": "https://www.1stdibs.com/furniture/lighting/floor-lamps/swedish-designer-floor-lamp-birch-nickel-fabric-sweden-1930s/id-f_39327862/",
+    "name": "Swedish Designer, Floor Lamp, Birch, Nickel, Fabric, Sweden, 1930s",
+    "price": "CA$5,590",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

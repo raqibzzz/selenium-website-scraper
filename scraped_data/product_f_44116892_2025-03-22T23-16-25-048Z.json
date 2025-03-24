@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44116892",
+  "name": "Bolha Chair",
+  "slug": "f_44116892",
+  "price": "CA$2,880.31",
+  "description": "BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time: 6-8 weeks",
+  "image_url": "https://a.1stdibscdn.com/bolha-chair-for-sale/f_62582/f_441168921742402117363/f_44116892_1742402118018_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/bolha-chair/id-f_44116892/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44116892",
+    "slug": "f_44116892",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/bolha-chair/id-f_44116892/",
+    "name": "Bolha Chair",
+    "price": "CA$2,880.31",
+    "imageUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale/f_62582/f_441168921742402117363/f_44116892_1742402118018_bg_processed.jpg",
+    "description": "BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time: 6-8 weeks",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

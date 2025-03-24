@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44100982",
+  "name": "Pair of Sergio Mazza Gamma Sconces",
+  "slug": "f_44100982",
+  "price": "CA$5,171 / set",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/pair-of-sergio-mazza-gamma-sconces/id-f_44100982/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44100982",
+    "slug": "f_44100982",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/pair-of-sergio-mazza-gamma-sconces/id-f_44100982/",
+    "name": "Pair of Sergio Mazza Gamma Sconces",
+    "price": "CA$5,171 / set",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

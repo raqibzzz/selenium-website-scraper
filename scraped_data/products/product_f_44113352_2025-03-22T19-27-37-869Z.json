@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44113352",
+  "name": "Appuntito Ceramic Light",
+  "slug": "f_44113352",
+  "price": "CA$3,360 / item",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/appuntito-ceramic-light-for-sale/f_62582/f_441133521742392861907/f_44113352_1742392862647_bg_processed.jpg?width=240",
+  "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/appuntito-ceramic-light/id-f_44113352/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44113352",
+    "slug": "f_44113352",
+    "url": "https://www.1stdibs.com/furniture/lighting/table-lamps/appuntito-ceramic-light/id-f_44113352/",
+    "name": "Appuntito Ceramic Light",
+    "price": "CA$3,360 / item",
+    "imageUrl": "https://a.1stdibscdn.com/appuntito-ceramic-light-for-sale/f_62582/f_441133521742392861907/f_44113352_1742392862647_bg_processed.jpg?width=240",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

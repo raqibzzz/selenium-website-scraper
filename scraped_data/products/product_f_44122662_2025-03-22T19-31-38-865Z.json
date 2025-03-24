@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44122662",
+  "name": "Geometric Art Deco Opaline Hall Lantern, Netherlands circa 1910",
+  "slug": "f_44122662",
+  "price": "CA$2,648",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/lanterns/geometric-art-deco-opaline-hall-lantern-netherlands-circa-1910/id-f_44122662/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44122662",
+    "slug": "f_44122662",
+    "url": "https://www.1stdibs.com/furniture/lighting/lanterns/geometric-art-deco-opaline-hall-lantern-netherlands-circa-1910/id-f_44122662/",
+    "name": "Geometric Art Deco Opaline Hall Lantern, Netherlands circa 1910",
+    "price": "CA$2,648",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}

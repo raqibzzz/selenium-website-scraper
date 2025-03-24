@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44122112",
+  "name": "Hans-Agne Jakobsson Wall Light, 1960s",
+  "slug": "f_44122112",
+  "price": "CA$1,600",
+  "description": "",
+  "image_url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+  "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/hans-agne-jakobsson-wall-light-1960s/id-f_44122112/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44122112",
+    "slug": "f_44122112",
+    "url": "https://www.1stdibs.com/furniture/lighting/sconces-wall-lights/hans-agne-jakobsson-wall-light-1960s/id-f_44122112/",
+    "name": "Hans-Agne Jakobsson Wall Light, 1960s",
+    "price": "CA$1,600",
+    "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "automated"
+  }
+}
